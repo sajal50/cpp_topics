@@ -9,5 +9,5 @@ Collection of articles for cpp topics
 - Modernes C++ - [Part 1](https://www.modernescpp.com/index.php/c-core-guidelines-type-erasure) and [Part 2](https://www.modernescpp.com/index.php/c-core-guidelines-type-erasure-with-templates)
 
 
-# Padding and Packing
+### Padding and Packing
 - [Structural Padding & Packing In C & C++ - YouTube](https://www.youtube.com/watch?v=QSuBwGmFQqA)
